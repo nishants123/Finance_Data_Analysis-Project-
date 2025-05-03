@@ -8,11 +8,11 @@ This project analyzes customer data from Thera Bank to uncover insights that can
 
 Thera Bank ran a personal loan campaign that resulted in only 9.6% of customers accepting the offer. To improve future campaigns, the bank seeks to:
 
-Identify customer segments more likely to accept personal loans.
+•  Identify customer segments more likely to accept personal loans.
 
-Develop targeted marketing strategies based on customer profiles.
+•  Develop targeted marketing strategies based on customer profiles.
 
-Increase conversion rates while minimizing campaign costs.
+•  Increase conversion rates while minimizing campaign costs.
 
 
 📊 Dataset Description:
@@ -32,50 +32,50 @@ Only 480 customers (9.6%) accepted the personal loan offer in the previous campa
 
 1. Age-Based Targeting
 
-25–35 Years: Good candidates for small personal loans for weddings, travel, or credit building.
+•  25–35 Years: Good candidates for small personal loans for weddings, travel, or credit building.
 
-35–50 Years: Prefer larger loans for home renovation, education, or investment.
+•  35–50 Years: Prefer larger loans for home renovation, education, or investment.
 
-50+ Years: Interested in lifestyle improvement or debt consolidation loans.
+•  50+ Years: Interested in lifestyle improvement or debt consolidation loans.
 
 2. Education-Level Trends
    
-Undergraduates (42%): Mixed income; cautious loan offers above $40k.
+•  Undergraduates (42%): Mixed income; cautious loan offers above $40k.
 
-Graduates (28%): Balanced income distribution; safer for moderate loans.
+•  Graduates (28%): Balanced income distribution; safer for moderate loans.
 
-Professionals (30%): Higher income; ideal for larger loans with flexible terms.
+•  Professionals (30%): Higher income; ideal for larger loans with flexible terms.
 
 3. Income-Based Segmentation
    
-$40k–$80k: Offer low-interest, small loans for essential needs.
+•  $40k–$80k: Offer low-interest, small loans for essential needs.
 
-$80k–$150k: Promote mid-sized loans for lifestyle upgrades.
+•  $80k–$150k: Promote mid-sized loans for lifestyle upgrades.
 
-$150k–$200k: Provide premium loan products with added perks.
+•  $150k–$200k: Provide premium loan products with added perks.
 
 4. Credit Card Ownership
    
-Holders: Ideal for promoting debt consolidation.
+•  Holders: Ideal for promoting debt consolidation.
 
-Non-Holders: Loans can serve as an entry point to credit building.
+•  Non-Holders: Loans can serve as an entry point to credit building.
 
 5. Securities Account Status
    
-With Account: Cross-sell high-value loans for portfolio expansion.
+•  With Account: Cross-sell high-value loans for portfolio expansion.
 
-Without Account: Bundle loans with beginner investment options.
+•  Without Account: Bundle loans with beginner investment options.
 
 
 ✅ Recommendations:
 
-Create personalized loan campaigns based on age, education, and income.
+•  Create personalized loan campaigns based on age, education, and income.
 
-Cross-sell loans to customers with credit cards and securities accounts.
+•  Cross-sell loans to customers with credit cards and securities accounts.
 
-Use segmentation to reduce campaign costs and increase ROI.
+•  Use segmentation to reduce campaign costs and increase ROI.
 
-Pair loan offers with financial literacy content to boost confidence and adoption.
+•  Pair loan offers with financial literacy content to boost confidence and adoption.
 
 🧾 Conclusion:
 
@@ -83,12 +83,12 @@ Data-driven customer segmentation can significantly improve the success of Thera
 
 🛠️ Technologies Used:
 
-Excel: Initial data exploration
+•  Excel: Initial data exploration
 
-Python (Pandas, NumPy): Data wrangling and analysis
+•  Python (Pandas, NumPy): Data wrangling and analysis
 
-Seaborn & Matplotlib: Visualizations
+•  Seaborn & Matplotlib: Visualizations
 
-Jupyter Notebook: Exploratory data analysis workflow
+•  Jupyter Notebook: Exploratory data analysis workflow
 
 
